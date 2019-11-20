@@ -263,3 +263,20 @@ tr:nth-child(even) {
 
 #mobile { display: none; }
 #desktop { display: inline; }
+
+/*Hw 8 edits below*/
+label {
+  display: block;
+  float: left;
+  width: 8em;
+  padding-right: 1em;
+}
+
+input, textarea {
+    display: block;
+    margin-bottom: 1em;
+}
+
+#mySubmit {
+    margin-left: 10em;   
+}
