@@ -6,7 +6,7 @@ body {
     background-color: #FFFFFF;
     color: #666666;
     font-family: Verdana, Arial, san-serif;
-    background-image: url("pacific8/background.jpg");
+    background-image: url("pacific9/background.jpg");
 }
 
 main {
@@ -28,7 +28,7 @@ h1 {
     color: #FFFFFF;
     font-family: Georgia, serif;
     line-height: 200%;
-    background-image: url("pacific8/sunset.jpg");
+    background-image: url("pacific9/sunset.jpg");
     background-repeat: no-repeat;
     background-position: right;
     height: 72px;
@@ -108,7 +108,7 @@ header, nav, main, footer {
 
 #homehero {
     height: 300px;
-    background-image: url(pacific8/coast.jpg);
+    background-image: url(pacific9/coast.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-left: 170px;
@@ -116,7 +116,7 @@ header, nav, main, footer {
 
 #yurthero {
     height: 300px;
-    background-image: url(pacific8/yurt.jpg);
+    background-image: url(pacific9/yurt.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-left: 170px;
@@ -124,7 +124,7 @@ header, nav, main, footer {
 
 #trailhero {
     height: 300px;
-    background-image: url(pacific8/trail.jpg);
+    background-image: url(pacific9/trail.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-left: 170px;
